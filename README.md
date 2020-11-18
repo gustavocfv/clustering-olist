@@ -22,3 +22,5 @@ A base principal é composta de uma série histórica de vendas com 99.441 pedid
 
 Além desta, há bases auxiliares com detalhes sobre os produtos vendidos e os produtos de cada pedido, sobre os vendedores, sobre os compradores e os reviews dos compradores, sobre os pagamentos, e sobre dados de geolocalização. As duas últimas não serão utilizados em nosso estudo.
 
+# Notebooks
+Os notebooks do projeto foram criados em Spark no ambiente Databricks (https://community.cloud.databricks.com).
